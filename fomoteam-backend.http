@@ -1,6 +1,0 @@
-@fomoteam_backend_HostAddress = http://localhost:5136
-
-GET {{fomoteam_backend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
